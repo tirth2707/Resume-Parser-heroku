@@ -1,0 +1,14 @@
+streamlit
+PyPDF2
+opencv-python-headless
+easyocr
+poppler-utils
+pdf2image
+phonenumbers
+pdfminer.six
+spacy
+en_core_web_trf
+en_core_web_sm
+en_core_web_lg
+setuptools
+Cython
